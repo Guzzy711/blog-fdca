@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SagaLabs
-permalink: /Sagalabs
+permalink: /SagaLabs
 comments: false
 ---
 
