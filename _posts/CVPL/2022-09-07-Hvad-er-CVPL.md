@@ -7,7 +7,7 @@ image: assets\images\Cvpl_logo.png
 comments: false
 ---
 
-Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året. - Når disse talenter der færdige med cyberværnepligten vil de være ambassadører for god IT-sikkerhed i det danske kongerige.
+Cyberværnepligten er et politisk udspil der skal udklække ~30+ nye digitale sikkerhedstalenter om året. - Når disse talenter er færdige med cyberværnepligten vil de være ambassadører for god IT-sikkerhed i det danske kongerige.
 
 **Værnepligtsperioden er samlet 10 måneder, delt op i to sektioner:**
 
