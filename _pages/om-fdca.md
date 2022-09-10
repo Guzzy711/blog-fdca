@@ -115,7 +115,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
 
 ## Advisory Board
 
-<div class="flex mb-8 mt-2">
+<div style="display: flex; margin-top: 0.5rem; margin-bottom: 2rem;">
   <div style="min-width: 150px">
     <img src="/assets/images/people/astrid-gufler.jpg" style="width: 150px">
   </div>
