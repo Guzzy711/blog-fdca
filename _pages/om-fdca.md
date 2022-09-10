@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om Foreningen for Danske Cyber Alumner
-permalink: /about
+permalink: /om-fdca
 comments: false
 image: 
 imageshadow: true
@@ -53,61 +53,61 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
 
 ## Personerne bag
 
-<div class="flex mb-8 mt-2">
+<div style="display: flex; margin-top: 0.5rem; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/christian-henriksen.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Christian Henriksen, Bestyrelsesformand</b>
     <br>Christian bidrager til sporet omkring samfundspåvirkning. Han er også hovedansvarlig for kontakt med samarbejdspartnere og støttemedlemmer. 
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem" style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/kasper-hjortborg.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Kasper Hjortborg, Bestyrelsesmedlem</b>
     <br>Kasper er ansvarlig for sporet vedrørende skabelse af et relationelt netværk gennem forskellige arrangementer. 
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/mads-lundholm.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Mads Lundholm, Bestyrelsesmedlem</b>
     <br>Mads bidrager til sporet vedrørende karriereudvikling og rådgivning. Han er også ansvarlig for hjemmesiden.
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/martin-anqvist.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Martin Anqvist, Bestyrelsesmedlem</b>
     <br>Martin er medansvarlig på sporet vedrørende kompetenceudvikling af medlemmerne. Martin medvirker også som sekretær på møder. 
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/andreas-thorlund.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Andreas Thorlund, Bestyrelsesmedlem</b>
     <br>Andreas er hovedansvarlig for sporet vedrørende samfundspåvirkning. Derudover så er han hovedansvarlig for foreningens sociale medier. 
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/gustav-stigkjaer.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Gustav Stigkjær, Bestyrelsesmedlem</b>
     <br>Gustav er medansvarlig for kompetenceudvikling. Gustav bidrager også til foreningen ved at være administrator på de interne kommunikationskanaler.
   </div>
@@ -119,43 +119,43 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   <div style="min-width: 150px">
     <img src="/assets/images/people/astrid-gufler.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Astrid Gufler</b>
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/david-clayton.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>David Thejl-Clayton</b>
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/gorm-christiansen.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Gorm Grosen Christiansen</b>
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/kjeld-ole-nielsen.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Kjeld Ole Nielsen</b>
   </div>
 </div>
 
-<div class="flex mb-8">
+<div style="display: flex; margin-bottom: 2rem">
   <div style="min-width: 150px">
     <img src="/assets/images/people/nichlas-falk.jpg" style="width: 150px">
   </div>
-  <div class="ml-4">
+  <div style="margin-left: 1rem">
     <b>Nichlas Falk</b>
   </div>
 </div>
