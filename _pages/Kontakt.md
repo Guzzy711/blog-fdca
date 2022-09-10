@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /contact
+permalink: /kontakt
 comments: false
 ---
 

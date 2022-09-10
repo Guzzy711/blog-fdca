@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om Foreningen for Danske Cyber Alumner
-permalink: /about
+permalink: /om-fdca
 comments: false
 image: 
 imageshadow: true
