@@ -1,10 +1,10 @@
 ---
 layout: page
-title: SagaLabs
-permalink: /SagaLabs
+title: Sagalabs
+permalink: /sagalabs
 comments: false
 ---
 
-![SagaLabs](/assets/images/sagalabs.png "SagaLabs")
+![Sagalabs](/assets/images/sagalabs.png "Sagalabs")
 
-![SagaLabs](/assets/images/sagalabs1.png "SagaLabs")
+![Sagalabs](/assets/images/sagalabs1.png "Sagalabs")
