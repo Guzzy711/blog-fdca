@@ -121,6 +121,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>Astrid Gufler</b>
+      <br>Astrid hjælper foreningen med hendes super høje faglige niveau indenfor relationsskabelse, funding og altid gode humør. Astrid har tidligere arbejdet ved Center for Cybersikkerhed, så hun er super skarp indenfor denne branche. 
   </div>
 </div>
 
@@ -130,6 +131,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>David Thejl-Clayton</b>
+    <br>David er hjernen bag SagaLabs konceptet, og har en kæmpe passion for Open-source, Cyber Threat Intelligence og hjælpe forskellige communities. Med Davids store erfaring indenfor cyber-feltet, giver han kæmpe værdi for foreningen. 
   </div>
 </div>
 
@@ -139,6 +141,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>Gorm Grosen Christiansen</b>
+    <br>Gorm har en umenneskelig evne til at "tegne" langsigtede strategier og udvikle organisationer, og er med til at sætte præg på, hvor foreningen skal hen i fremtiden. Gorm har store mængder af erfaring i denne branche, og derfor er det også naturligt at han sidder på advisory boardet.  
   </div>
 </div>
 
@@ -148,6 +151,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>Kjeld Ole Nielsen</b>
+    <br> Kjeld Ole er har været en af de primære årsager til, at foreningen er hvor den er i dag. Han drive for foreningen gør, at vi har fået skabt relationer i forskellige sektorer, og dermed får påvirket samfundet i en meget høj grad. Kjeld Ole har adskillige imponerende erfaringer i denne branche. 
   </div>
 </div>
 
@@ -157,6 +161,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>Nichlas Falk</b>
+    <br> Nichlas er foreningens guru indenfor red-teaming og infrastruktur. Han er manden bag alle de angreb som findes i SagaLabs, og bidrager især til undervisning af det enkelte medlem. Nichlas kom i 2022 på Berlingske Talent 100, og arbejder til dagligt med forskellige offensive operationer - derfor super glade for at have ham med på holdet. 
   </div>
 </div>
 
