@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hvem er vi? - Christian Henriksen"
-author: ch
+author: at
 categories: [ Portrætter ]
 tags: [ Medlemmer ]
 image: assets\images\people\christian-henriksen.jpg

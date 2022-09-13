@@ -1,11 +1,11 @@
 ---
 layout: page
-title: SagaLabs
-permalink: /SagaLabs
+title: Sagalabs
+permalink: /sagalabs
 comments: false
 ---
 
-![SagaLabs](/assets/images/sagalabs.png "SagaLabs")
+![Sagalabs](/assets/images/sagalabs.png "Sagalabs")
 
 SagaLabs er en cloud platform, specelt designet til purple teaming øvelser.
 
@@ -16,6 +16,5 @@ Baselabbet består af 2 klienter, en DC, [TheHive](https://github.com/TheHive-Pr
 Derudover er der installeret Elasic på alle endpoints.
 
 Vi har tidligere erfaring i foreningen med at afholde purple teaming events, baseret på "adversary emulation" af blandt andet [Wizard Spider](https://attack.mitre.org/groups/G0102/).
-
 
 ![SagaLabs](/assets/images/sagalabs1.png "SagaLabs")
