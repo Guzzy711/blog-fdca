@@ -4,10 +4,8 @@ title: "FDCA Blog"
 description: ""
 logo: 'assets/images/logo/full_smalltext_transparent_pink.png'
 favicon: 'assets/images/logo/stamp_transparent_pink.png'
-baseurl: 
-google_analytics: 'UA-xxxxxxxx-1'
+url: https://fdca.dk
 disqus: 'FDCA Blog'
-mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 email: info@fdca.dk
@@ -57,7 +55,7 @@ jekyll-archives:
     
 # Pagination 
 paginate: 6
-paginate_path: /page:num/
+paginate_path: /page/:num/
     
 # Other
 highlighter: none
@@ -70,8 +68,6 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: ""
-adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
