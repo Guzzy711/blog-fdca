@@ -29,7 +29,7 @@ På nuværende tidspunkt består bestyrelsen af 6 ildsjæle der driver foreninge
 
 ## Hvad laver man i FDCA?
 
-Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton (Combitec) og Nichlas Falk (Improsec), på Combitecs faciliteter i Århus. Til dette event blev APT-gruppen "WizardSpider" analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres "hands-on"-erfaring.
+Foreningen blev oprettet i September 2021, og har siden da afholdt 2 fysiske arrangementer - det ene var en Capture the flag dag, som blev afholdt på Aalborg Universitet i København. Det andet var et Purple-teaming event, med fokus på threathunting i samarbejde med David Clayton (Combitech) og Nichlas Falk (Improsec), på Combitech's faciliteter i Århus. Til dette event blev APT-gruppen "WizardSpider" analyseret, og deres TTP blev simuleret i et lukket miljø. Dette var med til at give inspiration til hvordan man kan gribe sin threat-hunting an - altså medlemmerne fik udvidet deres "hands-on"-erfaring.
 
 Foreningen har derudover afholdt et online CTF-event, deltaget i OWASP foredrag og haft forskellige sociale sammenkomster. Selvom det sociale aspekt vægtes højt ved samtlige arrangementer, så går foreningens medlemmer altid hjem med viden eller erfaring, som kan bruges direkte i deres arbejde eller uddannelse.
 
@@ -161,7 +161,7 @@ Dog vil det være muligt at tilmelde sig som støttemedlem. Kontakt kontakt@fdca
   </div>
   <div style="margin-left: 1rem">
     <b>Nichlas Falk</b>
-    <br> Nichlas er foreningens guru indenfor red-teaming og infrastruktur. Han er manden bag alle de angreb som findes i SagaLabs, og bidrager især til undervisning af det enkelte medlem. Nichlas kom i 2022 på Berlingske Talent 100, og arbejder til dagligt med forskellige offensive operationer - derfor super glade for at have ham med på holdet. 
+    <br> Nichlas er foreningens guru indenfor red-teaming og infrastruktur. Han er manden bag alle de angreb som findes i SagaLabs, og bidrager især til undervisning af det enkelte medlem. Nichlas kom i 2022 på Berlingske Talent 100, og arbejder til dagligt med forskellige offensive operationer - derfor er FDCA super glade for at have ham med på holdet. 
   </div>
 </div>
 
