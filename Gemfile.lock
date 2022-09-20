@@ -39,6 +39,7 @@ GEM
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
     ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -90,6 +91,8 @@ GEM
     minitest (5.16.3)
     nokogiri (1.13.8)
       mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
+    nokogiri (1.13.8-x64-mingw-ucrt)
       racc (~> 1.4)
     nokogiri (1.13.8-x64-mingw32)
       racc (~> 1.4)
@@ -144,11 +147,13 @@ GEM
     tzinfo (2.0.5)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.7.0)
     zeitwerk (2.6.0)
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
   x64-mingw32
 
 DEPENDENCIES
@@ -161,6 +166,7 @@ DEPENDENCIES
   jekyll-sitemap
   kramdown
   rouge
+  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
